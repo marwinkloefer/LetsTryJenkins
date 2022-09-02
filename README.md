@@ -1,2 +1,0 @@
-# LetsTryJenkins
-FirstStepsWithJenkinsAndCICDPipelines
